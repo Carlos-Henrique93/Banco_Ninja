@@ -15,4 +15,4 @@ O sistema permite criar contas, acessar contas existentes e realizar operações
 
 ## ✨ Autor
 Desenvolvido com 💻 por Carlos.  
-🔗 [LinkedIn](https://www.linkedin.com/in/carlos-henrique-camargo-dos-santos-75994a50/) | 🌱 Projeto para fins de estudo e prática com Java.
+🔗 LinkedIn : https://www.linkedin.com/in/carlos-henrique-camargo-dos-santos-75994a50/ | 🌱 Projeto para fins de estudo e prática com Java.
